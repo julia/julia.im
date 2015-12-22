@@ -1,0 +1,389 @@
+body {
+  background-color: #fff;
+}
+
+/*body, body p {
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 1.88235;
+}*/
+
+.article {
+  margin: 4em 0;
+}
+
+.article-image img {
+  width: 600px;
+  max-width: 600px;
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+
+.article-image.float-left img {
+  width: 110px;
+  float: left;
+  margin: 0 40px 0 0;
+}
+
+.article-date {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: .8em;
+  font-weight: 400;
+  letter-spacing: .2em;
+  margin-bottom: 1.6em;
+}
+
+.article-blurb {
+  width: 60%;
+  text-align: center;
+  margin: 1em auto;
+  line-height: 1.6em;
+}
+
+.article-link {
+  font-weight: bold;
+  margin: 1.4em auto 1.6em;
+}
+
+.col-3 {
+  width: 29%;
+  margin: 0 2%;
+  float: left;
+}
+
+.col-3 img {
+  width: 50%;
+  margin: 0 auto 1em;
+}
+
+.col-3 p {
+  font-size: 0.8em;
+  line-height: 1.5em;
+  text-align: left;
+}
+
+
+/* ANDROID DESIGN GUIDELINES */
+.featured-article {
+  width: 100%;
+  height: 680px;
+  background-size: 1440px auto;
+  background-position: center top;
+  background-repeat: no-repeat;
+  position: relative;
+  text-align: center;
+  margin-bottom: 60px;
+  max-height: 680px;
+
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 1.88235;
+}
+
+#android-design-guidelines.featured-article {
+  background-image: url(../images/blog/android-design-guidelines/cover8.png);
+  background-color: #3e50b4;
+}
+
+
+
+#android-design-guidelines .article-title h1:hover {
+
+  -ms-transition: background 1s ease;
+  -webkit-transition: background 1s ease;
+  -moz-transition: background 1s ease;
+  -o-transition: background 1s ease;
+  transition: background 1s ease;
+}
+
+
+
+
+
+
+#my-design-process.featured-article {
+  background-image: url(../images/blog/my-design-process/cover.jpg);
+}
+
+
+.article-title {
+  color: #fff;
+  position: absolute;
+  top: 60%;
+  bottom: 0;
+  width: 100%;
+  padding: 20px 0;
+/*  box-shadow: 0 2px 5px rgba(0,0,0,0.26);*/
+  
+}
+
+
+
+
+.article-title .article-subtitle {
+  color: #fff;
+  font-size: 1.2em;
+  line-height: 1.4em;
+  width: 50%;
+  margin: 1em auto 0;
+}
+
+.article-title h1 {
+  color: #fff;
+  font-size: 3em;
+  font-weight: 400;
+  margin: 0;
+  font-family: "Roboto Mono", Roboto, sans-serif;
+  font-weight: 400;
+  line-height: 1em;
+}
+
+.article-image {
+  box-sizing: border-box;
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.article-image img {
+  max-width: 100%;
+}
+
+.content {
+  text-align: justify;
+  display: table;
+  width: 600px;
+  margin: 2em auto;
+  line-height: 1.6em;
+  font-size: 1.2em;
+  max-width: 720px;
+}
+
+.content h2 {
+  padding-top: 40px;
+  font-size: 1.6em;
+  font-weight: 400;
+  letter-spacing: -0.02em;
+  line-height: 32px;
+  margin-bottom: 30px;
+  margin-top: 60px;
+  /*text-transform: uppercase;*/
+  color: #3e50b4;
+  clear: both;
+}
+
+.content h3 {
+  font-weight: 400;
+  letter-spacing: -0.01em;
+  padding: 2em 0 1em;
+  font-size: 1.2em;
+}
+
+.content .best-practices {
+  font-size: 0.8em;
+  margin-bottom: 60px;
+  background: #eee;
+  border: 0 solid #eee;
+  position: relative;
+}
+
+.content .best-practices .bp-icon {
+    float: left;
+    height: 24px;
+    margin: 0;
+    width: auto;
+
+    position: absolute;
+    top: 50%;
+    margin-top: -12px;
+    left: 16px;
+}
+
+.content .best-practices .bp-content {
+  margin-left: 4px;
+  background-color: #fff;
+  padding: 0 20px;
+}
+
+.content .best-practices h3 {
+  text-transform: uppercase;
+  font-size: 1em;
+  padding: 0 0 10px;
+  color: #3fb0ff;
+}
+
+.content .best-practices ul li {
+  line-height: 22px;
+}
+
+.content p {
+  -webkit-font-smoothing: antialiased;
+  margin-bottom: 24px;
+  color: rgba(0,0,0,0.75)
+}
+
+.content .first {
+  font-size: 3.2em;
+  padding-right: 4px;
+}
+
+/* Menu */
+.article-toc {
+  width: 200px;
+  padding: 0 0 0 20px;
+  z-index: 2;
+  top: 690px;
+  position: absolute;
+  left: calc((50% + 500px) - 190px);
+  border-left: 2px solid #00bcd4;
+  display: none;
+}
+
+.article-toc h3 {
+  font-size: 0.8em;
+  font-weight: 600;
+  text-transform: uppercase;
+  padding-bottom: 1em;
+}
+
+.article-toc p {
+  padding-bottom: 10px;
+}
+
+.article-toc p a:hover {
+  opacity: 0.9;
+}
+
+
+table.resolutions {
+  width: 100%;
+  display: table;
+  font-size: 0.6em;
+  border-collapse: collapse;
+  margin: 2em 0 4em;
+  background: #f8f8f8;
+}
+
+table.resolutions tr.tbl-header {
+  background: #fff;
+  border-top: 1px solid #3e50b4;
+}
+
+table.resolutions tr.tbl-header td {
+  border-bottom: 1px solid #eee;
+  font-weight: 500;
+}
+
+table.resolutions tr {
+  border-bottom: 1px solid #eee;
+  vertical-align: top;
+}
+
+
+table.resolutions td {
+  text-align: center;
+  padding: 4px 10px;
+}
+
+.ltl-red {
+  font-size: 0.2em;
+  color: #d0021b;
+  font-weight: 600;
+  margin-top: -16px;
+}
+
+table.resolutions img.icon {
+  width: 61px;
+  height: 6px;
+}
+
+table.resolutions td.device {
+  text-align: left;
+}
+
+table.resolutions tr.left td {
+  text-align: left;
+}
+
+.type {
+  margin-left: 4px;
+  padding: 2px 4px;
+  font-weight: 600;
+  color: #3e50b4;
+  opacity: 0.55;
+}
+
+/*table.resolutions td.type.hdpi {
+  color: #8BC34A;
+}
+
+table.resolutions td.type.xhdpi {
+  color: #FF9800;
+}
+
+table.resolutions td.type.xxhdpi {
+  color: #E91E63;
+}*/
+
+.note {
+  font-size: 0.7em;
+  line-height: 1.6em;
+  padding: 5px 20px;
+  margin: 20px 0;
+  background: #fdfdf7;
+  font-weight: 400;
+}
+
+#disqus_thread {
+  margin-bottom: 5em;
+}
+
+.row .column #disqus_thread {
+  margin-top: 5em;
+}
+
+#layout #footer {
+  display: none;
+}
+
+.footnote-small {
+  font-size: 0.9em;
+  font-style: italic;
+}
+
+
+.content .best-practices.purpose {
+  background: #3e50b4;
+}
+
+.content .best-practices.purpose p {
+  line-height: 22px;
+}
+
+.content .best-practices.purpose .pur-title {
+  text-transform: uppercase;
+  font-size: 0.8em;
+  font-weight: 600;
+  color: #3e50b4;
+  letter-spacing: 0.2em;
+  font-family: "museo-sans", sans-serif;
+}
+
+#fb-root {
+  padding-top: 4px;
+}
+
+#share-div {
+    position: absolute;
+    top: 796px;
+    right: 50px;
+    width: 230px;
+    z-index: 2;
+}
+
+#share-div.fixed {
+  position: fixed;
+  top: 20px;
+}

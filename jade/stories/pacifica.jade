@@ -1,0 +1,85 @@
+extends ../layout/stories/story.jade
+block append meta
+    meta(property='og:url', content='http://julia.im/stories/pacifica')
+    meta(property='og:type', content='website')
+    meta(property='og:title', content='Story about ' + stories.pacifica.title + ' by Julia Khusainova')
+    meta(property='og:image', content='http://julia.im/images/stories/' + stories.pacifica.img + '/thumb_600.jpg')
+    meta(property='og:description', content=stories.pacifica.description)
+
+    link(rel='http://julia.im/images/stories/' + stories.pacifica.img + '/thumb_600.jpg', type="image/jpeg", href='http://julia.im/images/stories/' + stories.pacifica.img)
+
+block content
+
+    section#main.story-page
+        .featured-story#pacifica
+        .featured-overlay
+
+        .story-title
+            .h-container
+                .story-date June 2014
+                h1 #{stories.pacifica.title}
+                p.story-subtitle #{stories.pacifica.description}
+    .h-container.content-container
+        .row
+            .text
+                h2 Title
+        
+        .row
+            .column
+                img.lazy(src='/images/i.png' data-src='/images/stories/' + stories.pacifica.img + '/1.jpg' alt='Story about ' + stories.pacifica.title + ' by Julia Khusainova')
+        .row 
+            .column.half
+                img.lazy(src='/images/i.png' data-src='/images/stories/' + stories.pacifica.img + '/2.jpg' alt='Story about ' + stories.pacifica.title + ' by Julia Khusainova')
+            .column.half
+                img.lazy(src='/images/i.png' data-src='/images/stories/' + stories.pacifica.img + '/3.jpg' alt='Story about ' + stories.pacifica.title + ' by Julia Khusainova')
+        .row
+            .column
+                img.lazy(src='/images/i.png' data-src='/images/stories/' + stories.pacifica.img + '/4.jpg' alt='Story about ' + stories.pacifica.title + ' by Julia Khusainova')
+        .row
+            .column
+                img.lazy(src='/images/i.png' data-src='/images/stories/' + stories.pacifica.img + '/5.jpg' alt='Story about ' + stories.pacifica.title + ' by Julia Khusainova')
+        .row
+            .column
+                img.lazy(src='/images/i.png' data-src='/images/stories/' + stories.pacifica.img + '/6.jpg' alt='Story about ' + stories.pacifica.title + ' by Julia Khusainova')
+        .row
+            .column
+                img.lazy(src='/images/i.png' data-src='/images/stories/' + stories.pacifica.img + '/68.jpg' alt='Story about ' + stories.pacifica.title + ' by Julia Khusainova')
+        .row
+            .column.half
+                img.lazy(src='/images/i.png' data-src='/images/stories/' + stories.pacifica.img + '/72.jpg' alt='Story about ' + stories.pacifica.title + ' by Julia Khusainova')
+            .column.half
+                img.lazy(src='/images/i.png' data-src='/images/stories/' + stories.pacifica.img + '/74.jpg' alt='Story about ' + stories.pacifica.title + ' by Julia Khusainova')
+        .row
+            .column
+                img.lazy(src='/images/i.png' data-src='/images/stories/' + stories.pacifica.img + '/71.jpg' alt='Story about ' + stories.pacifica.title + ' by Julia Khusainova')
+        .row
+            .column
+                img.lazy(src='/images/i.png' data-src='/images/stories/' + stories.pacifica.img + '/73.jpg' alt='Story about ' + stories.pacifica.title + ' by Julia Khusainova')
+        .row
+            .column
+                img.lazy(src='/images/i.png' data-src='/images/stories/' + stories.pacifica.img + '/70.jpg' alt='Story about ' + stories.pacifica.title + ' by Julia Khusainova')
+        .row
+            .column
+                img.lazy(src='/images/i.png' data-src='/images/stories/' + stories.pacifica.img + '/75.jpg' alt='Story about ' + stories.pacifica.title + ' by Julia Khusainova')
+        .row
+            .column
+                img.lazy(src='/images/i.png' data-src='/images/stories/' + stories.pacifica.img + '/76.jpg' alt='Story about ' + stories.pacifica.title + ' by Julia Khusainova')
+        .row
+            .column
+                img.lazy(src='/images/i.png' data-src='/images/stories/' + stories.pacifica.img + '/77.jpg' alt='Story about ' + stories.pacifica.title + ' by Julia Khusainova')
+
+        .row
+            .column
+                include ../layout/comments.jade
+        .row
+            .column
+                .travel-span
+                p.interest Point of interest: Islands of Thailand
+                hr
+        .row
+            .column
+                include ../layout/share.jade
+                p.footnote Technical details: Canon 5d Mark III &bull; 50mm 1.4 &bull; 100mm Macro 2.8L &bull; VSCO film processing
+        .row
+            .column
+                include ../layout/subscribe.jade

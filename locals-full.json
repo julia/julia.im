@@ -1,0 +1,171 @@
+{
+  "stories": {
+    "bangkok": {
+      "title": "Bangkok, Thailand",
+      "description": "Adventures in the Land of Buddha",
+      "url": "bangkok",
+      "img": "Bangkok",
+      "isFeatured": 1
+    },
+
+    "pacifica": {
+      "title": "Pacifica, CA",
+      "description": "--",
+      "img": "Pacifica",
+      "isFeatured": 0
+    },
+
+    "berkley": {
+      "title": "Berkley, CA",
+      "description": "--",
+      "img": "Berkley",
+      "isFeatured": 0
+    },
+
+    "montara": {
+      "title": "Montara Beach, CA",
+      "description": "-",
+      "img": "Montara",
+      "isFeatured": 0
+    },
+
+    "sonoma2015": {
+      "title": "Sonoma, CA",
+      "description": "Camping weekend with Twitter design team",
+      "url": "sonoma-2015",
+      "img": "Sonoma-2015",
+      "isFeatured": 0
+    },
+
+    "alamerefalls": {
+      "title": "Alamere Falls, CA",
+      "description": "-",
+      "img": "Alamere-Falls",
+      "isFeatured": 0
+    },
+
+    "tahoe2015": {
+      "title": "Tahoe, NV",
+      "description": "-",
+      "img": "Tahoe-2015",
+      "isFeatured": 0
+    },
+
+    "newyork": {
+      "title": "New York, NY",
+      "description": "The Big Apple",
+      "img": "New-York",
+      "isFeatured": 1
+    },
+
+    "newburyport": {
+      "title": "Newburyport, MA",
+      "description": "--",
+      "img": "Newburyport",
+      "isFeatured": 0
+    },
+
+    "monterey": {
+      "title": "Monterey, CA",
+      "description": "Long weekend in the land of artichokes",
+      "url": "monterey",
+      "img": "Monterey",
+      "isFeatured": 0
+    },
+
+    "pointreyes": {
+      "title": "Point Reyes, CA",
+      "description": "-",
+      "img": "Point-Reyes",
+      "isFeatured": 0
+    },
+
+    "yosemite": {
+      "title": "Yosemite, CA",
+      "description": "Hiking in a beautiful national park",
+      "url": "yosemite",
+      "img": "Yosemite",
+      "isFeatured": 0
+    },
+
+    "reno": {
+      "title": "Reno, NV",
+      "description": "-",
+      "url": "reno",
+      "img": "Reno",
+      "isFeatured": 0
+    },
+
+    "boston": {
+      "title": "Boston, MA",
+      "description": "-",
+      "img": "Boston",
+      "isFeatured": 0
+    },
+
+    "salem": {
+      "title": "Salem, MA",
+      "description": "Old New England",
+      "img": "Salem",
+      "isFeatured": 0
+    },
+
+    "thailand": {
+      "title": "Thailand, Part 1",
+      "description": "Vacation in paradise",
+      "url": "islands-thailand-part-1",
+      "img": "Thailand/part-1",
+      "isFeatured": 0
+    },
+
+    "thailand2": {
+      "title": "Thailand, P.2. Krabi and Phi Phi",
+      "description": "Vacation in paradise",
+      "img": "Thailand/part-2",
+      "isFeatured": 0
+    },
+
+    "seattle": {
+      "title": "Seattle, WA",
+      "description": "-",
+      "img": "Seattle",
+      "isFeatured": 1
+    },
+
+    "marin": {
+      "title": "Marin, CA",
+      "description": "One amazing drive",
+      "url": "marin",
+      "img": "Marin",
+      "isFeatured": 0
+    },
+
+    "sanfrancisco": {
+      "title": "San Francisco, CA",
+      "description": "The city where my heart is",
+      "img": "San-Francisco",
+      "isFeatured": 1
+    },
+
+    "saintpetersburg": {
+      "title": "Saint Petersburg, CA",
+      "description": "--",
+      "img": "Saint-Petersburg",
+      "isFeatured": 0
+    },
+
+    "warsaw": {
+      "title": "Warsaw, Poland",
+      "description": "--",
+      "img": "Warsaw",
+      "isFeatured": 0
+    },
+
+    "prague": {
+      "title": "Prague, Chezh Republic",
+      "description": "--",
+      "img": "Prague",
+      "isFeatured": 0
+    }
+  }
+}

@@ -1,0 +1,24 @@
+doctype html
+html
+    include layout/head.jade
+
+body
+    include layout/header.jade
+
+    section#main.home.animated.fadeInUp
+        .section-title
+            h-container
+                .photo-span
+                h1 404
+                .text-blurb
+                    p Something is missing. Go 
+                        a(href='julia.im') home
+                    hr
+                    
+        include layout/twitter.jade
+        include layout/fnote.jade
+        include layout/social.jade
+        include layout/footer.jade
+
+        script.
+            var page = $.julia('404');

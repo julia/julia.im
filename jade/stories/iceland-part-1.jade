@@ -1,0 +1,72 @@
+extends ../layout/stories/story.jade
+block append meta
+    meta(property='og:url', content='http://julia.im/stories/iceland')
+    meta(property='og:type', content='website')
+    meta(property='og:title', content='Story about ' + stories.iceland.title + ' by Julia Khusainova')
+    meta(property='og:image', content='http://julia.im/images/stories/' + stories.iceland.img + '/thumb_600.jpg')
+    meta(property='og:description', content=stories.iceland.description)
+
+    link(rel='http://julia.im/images/stories/' + stories.iceland.img + '/thumb_600.jpg', type="image/jpeg", href='http://julia.im/images/stories/' + stories.iceland.img)
+
+block content
+
+    section#main.story-page
+        .featured-story#iceland
+        .featured-overlay
+
+        .story-title
+            .h-container
+                .story-date June 2015
+                h1 #{stories.iceland.title}
+                p.story-subtitle #{stories.iceland.description}
+    .h-container.content-container
+        .row
+            .text
+                h2 Title
+        
+        .row
+            .column
+                img.lazy(src='/images/i.png' data-src='/images/stories/' + stories.iceland.img + '/1.jpg' alt='Story about ' + stories.iceland.title + ' by Julia Khusainova')
+        .row 
+            .column.half
+                img.lazy(src='/images/i.png' data-src='/images/stories/' + stories.iceland.img + '/2.jpg' alt='Story about ' + stories.iceland.title + ' by Julia Khusainova')
+            .column.half
+                img.lazy(src='/images/i.png' data-src='/images/stories/' + stories.iceland.img + '/3.jpg' alt='Story about ' + stories.iceland.title + ' by Julia Khusainova')
+        .row
+            .column
+                img.lazy(src='/images/i.png' data-src='/images/stories/' + stories.iceland.img + '/4.jpg' alt='Story about ' + stories.iceland.title + ' by Julia Khusainova')
+        .row
+            .column
+                img.lazy(src='/images/i.png' data-src='/images/stories/' + stories.iceland.img + '/5.jpg' alt='Story about ' + stories.iceland.title + ' by Julia Khusainova')
+        .row
+            .column
+                img.lazy(src='/images/i.png' data-src='/images/stories/' + stories.iceland.img + '/6.jpg' alt='Story about ' + stories.iceland.title + ' by Julia Khusainova')
+        .row
+            .column
+                img.lazy(src='/images/i.png' data-src='/images/stories/' + stories.iceland.img + '/7.jpg' alt='Story about ' + stories.iceland.title + ' by Julia Khusainova')
+        .row
+            .column.half
+                img.lazy(src='/images/i.png' data-src='/images/stories/' + stories.iceland.img + '/8.jpg' alt='Story about ' + stories.iceland.title + ' by Julia Khusainova')
+            .column.half
+                img.lazy(src='/images/i.png' data-src='/images/stories/' + stories.iceland.img + '/9.jpg' alt='Story about ' + stories.iceland.title + ' by Julia Khusainova')
+        .row
+            .column
+                img.lazy(src='/images/i.png' data-src='/images/stories/' + stories.iceland.img + '/10.jpg' alt='Story about ' + stories.iceland.title + ' by Julia Khusainova')
+        .row
+            .column
+                img.lazy(src='/images/i.png' data-src='/images/stories/' + stories.iceland.img + '/51.jpg' alt='Story about ' + stories.iceland.title + ' by Julia Khusainova')
+        .row
+            .column
+                include ../layout/comments.jade
+        .row
+            .column
+                .travel-span
+                p.interest Point of interest: Iceland
+                hr
+        .row
+            .column
+                include ../layout/share.jade
+                p.footnote Technical details: Canon 5d Mark III &bull; 50mm 1.4 &bull; 100mm Macro 2.8L &bull; VSCO film processing
+        .row
+            .column
+                include ../layout/subscribe.jade
