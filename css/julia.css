@@ -225,7 +225,7 @@ header {
   background: rgba(255, 255, 255, 0.96);
   z-index: 100;
   padding: 0;
-  height: 60px;
+  height: 100px;
 }
 
 header.transparent {
@@ -321,7 +321,7 @@ nav {
   position: absolute;
   right: 0;
   margin: 0 auto;
-  padding: 1.1em 1em 0 0;
+  padding: 2.3em 1em 0 0;
 
   -ms-transition: padding .2s linear;
   -webkit-transition: padding .2s linear;
@@ -375,7 +375,7 @@ nav li a span {
 
 .logo {
   position: relative;
-  top: 20px;
+  top: 38px;
   display: block;
   float: left;
   width: 26px;
@@ -1261,7 +1261,7 @@ input[type="email"].invalid {
 /* Section: Stories
 ************** */
 .section-stories {
-  padding-top: 60px;
+  padding-top: 100px;
   margin: 0 auto;
 }
 

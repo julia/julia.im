@@ -1,22 +1,13 @@
 {
   "stories": {
 
-    "thailand": {
-      "i": 1,
-      "title": "Thailand, Part 1",
-      "description": "Vacation in paradise",
-      "url": "islands-thailand-part-1",
-      "img": "Thailand/part-1",
+    "boston": {
+      "i": 14,
+      "title": "Boston",
+      "description": "New England",
+      "url": "boston",
+      "img": "Boston",
       "isFeatured": 1
-    },
-
-    "thailand2": {
-      "i": 7,
-      "title": "Thailand, Part 2",
-      "description": "Vacation in paradise",
-      "url": "islands-thailand-part-2",
-      "img": "Thailand/part-2",
-      "isFeatured": 0
     },
 
     "iceland": {
@@ -27,40 +18,24 @@
       "isFeatured": 1
     },
 
+
+    "thailand2": {
+      "i": 7,
+      "title": "Thailand, Part 2",
+      "description": "Vacation in paradise",
+      "url": "islands-thailand-part-2",
+      "img": "Thailand/part-2",
+      "isFeatured": 0
+    },
+
+
+
     "bangkok": {
       "i": 3,
       "title": "Bangkok, Thailand",
       "description": "Adventures in the Land of Buddha",
       "url": "bangkok",
       "img": "Bangkok",
-      "isFeatured": 0
-    },
-
-    "alamerefalls": {
-      "i": 10,
-      "title": "Alamere Falls, CA",
-      "description": "-",
-      "img": "Alamere-Falls",
-      "isFeatured": 1
-    },
-
-    "sonoma2015": {
-      "i": 4,
-      "title": "Sonoma, CA",
-      "description": "Camping weekend with Twitter design team",
-      "url": "sonoma-2015",
-      "img": "Sonoma-2015",
-      "isFeatured": 0
-    },
-
-
-
-    "monterey": {
-      "i": 5,
-      "title": "Monterey, CA",
-      "description": "Long weekend in the land of artichokes",
-      "url": "monterey",
-      "img": "Monterey",
       "isFeatured": 0
     },
 
@@ -72,6 +47,34 @@
       "img": "Yosemite",
       "isFeatured": 0
     },
+
+    "sonoma2015": {
+      "i": 4,
+      "title": "Sonoma, CA",
+      "description": "Camping weekend with Twitter design team",
+      "url": "sonoma-2015",
+      "img": "Sonoma-2015",
+      "isFeatured": 0
+    },
+
+    "monterey": {
+      "i": 5,
+      "title": "Monterey, CA",
+      "description": "Long weekend in the land of artichokes",
+      "url": "monterey",
+      "img": "Monterey",
+      "isFeatured": 0
+    },
+
+    "thailand": {
+      "i": 1,
+      "title": "Thailand, Part 1",
+      "description": "Vacation in paradise",
+      "url": "islands-thailand-part-1",
+      "img": "Thailand/part-1",
+      "isFeatured": 1
+    },
+
 
     "marin": {
       "i": 8,
