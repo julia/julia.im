@@ -1,7 +1,15 @@
 {
   "stories": {
 
+    "iceland3": {
+      "i": 9,
+      "title": "Iceland, Part 3",
+      "description": "Following the Ring Road",
+      "img": "Iceland/part-3",
+      "isFeatured": 1
+    },
 
+    
     "iceland2": {
       "i": 9,
       "title": "Iceland, Part 2",
@@ -16,14 +24,6 @@
       "title": "Iceland",
       "description": "Following the Ring Road",
       "img": "Iceland",
-      "isFeatured": 1
-    },
-
-    "iceland3": {
-      "i": 9,
-      "title": "Iceland, Part 3",
-      "description": "Following the Ring Road",
-      "img": "Iceland/part-3",
       "isFeatured": 1
     },
 
