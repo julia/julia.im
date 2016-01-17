@@ -1,13 +1,15 @@
 {
   "stories": {
 
-    "boston": {
-      "i": 14,
-      "title": "Boston",
-      "description": "New England",
-      "img": "Boston",
-      "isFeatured": 1
+
+    "iceland2": {
+      "i": 9,
+      "title": "Iceland, Part 2",
+      "description": "Following the Ring Road",
+      "img": "Iceland/part-2",
+      "isFeatured": 0
     },
+
 
     "iceland": {
       "i": 9,
@@ -17,6 +19,29 @@
       "isFeatured": 1
     },
 
+    "iceland3": {
+      "i": 9,
+      "title": "Iceland, Part 3",
+      "description": "Following the Ring Road",
+      "img": "Iceland/part-3",
+      "isFeatured": 1
+    },
+
+
+    "sanfrancisco": {
+      "title": "San Francisco, CA",
+      "description": "The city where I left my heart",
+      "img": "San-Francisco",
+      "isFeatured": 1
+    },
+
+    "reykjavik": {
+      "i": 9,
+      "title": "Reykjavik, Iceland",
+      "description": "Vikings land",
+      "img": "Reykjavik",
+      "isFeatured": 0
+    },
 
     "thailand2": {
       "i": 7,
@@ -28,6 +53,22 @@
     },
 
 
+
+    "pacifica": {
+      "title": "Pacifica, CA",
+      "description": "--",
+      "img": "Pacifica",
+      "isFeatured": 0
+    },
+
+
+    "boston": {
+      "i": 14,
+      "title": "Boston, MA",
+      "description": "New England",
+      "img": "Boston",
+      "isFeatured": 0
+    },
 
     "bangkok": {
       "i": 3,
@@ -81,14 +122,6 @@
       "description": "One amazing drive",
       "url": "marin",
       "img": "Marin",
-      "isFeatured": 0
-    },
-
-    "pacifica": {
-      "i": 12,
-      "title": "Pacifica, CA",
-      "description": "Along the coast",
-      "img": "Pacifica",
       "isFeatured": 0
     }
 
