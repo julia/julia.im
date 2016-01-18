@@ -9,11 +9,11 @@
       "isFeatured": 1
     },
 
-    
+
     "iceland2": {
       "i": 9,
       "title": "Iceland, Part 2",
-      "description": "Following the Ring Road",
+      "description": "Icelandic living",
       "img": "Iceland/part-2",
       "isFeatured": 0
     },
@@ -22,7 +22,7 @@
     "iceland": {
       "i": 9,
       "title": "Iceland",
-      "description": "Following the Ring Road",
+      "description": "Waterfalls and glaciers",
       "img": "Iceland",
       "isFeatured": 1
     },
@@ -35,11 +35,18 @@
       "isFeatured": 1
     },
 
-    "reykjavik": {
-      "i": 9,
-      "title": "Reykjavik, Iceland",
-      "description": "Vikings land",
-      "img": "Reykjavik",
+    "newburyport": {
+      "title": "Newburyport, MA",
+      "description": "Cute little town",
+      "img": "Newburyport",
+      "isFeatured": 0
+    },
+
+
+    "portland": {
+      "title": "Portland, OR",
+      "description": "--",
+      "img": "Portland",
       "isFeatured": 0
     },
 
@@ -56,7 +63,7 @@
 
     "pacifica": {
       "title": "Pacifica, CA",
-      "description": "--",
+      "description": "Along the coast",
       "img": "Pacifica",
       "isFeatured": 0
     },
@@ -68,6 +75,21 @@
       "description": "New England",
       "img": "Boston",
       "isFeatured": 0
+    },
+
+    "reykjavik": {
+      "i": 9,
+      "title": "Reykjavik, Iceland",
+      "description": "Vikings land",
+      "img": "Reykjavik",
+      "isFeatured": 0
+    },
+
+    "newyork": {
+      "title": "New York, NY",
+      "description": "The Big Apple",
+      "img": "New-York",
+      "isFeatured": 1
     },
 
     "bangkok": {
@@ -118,7 +140,7 @@
 
     "marin": {
       "i": 8,
-      "title": "Marin, CA",
+      "title": "Marin Headlands, CA",
       "description": "One amazing drive",
       "url": "marin",
       "img": "Marin",
