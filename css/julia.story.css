@@ -134,7 +134,11 @@
 }
 
 .featured-story#iceland {
-  background-image: url('../images/stories/Iceland/featured.jpg');
+  background-image: url('../images/stories/Iceland/part-1/featured.jpg');
+}
+
+.featured-story#reykjavik {
+  background-image: url('../images/stories/Reykjavik/featured.jpg');
 }
 
 .featured-story#lifestyle {

@@ -79,8 +79,9 @@
 
     "reykjavik": {
       "i": 9,
-      "title": "Reykjavik, Iceland",
-      "description": "Vikings land",
+      "title": "Reykjavik",
+      "description": "The Vikings land",
+      "url": "reykjavik",
       "img": "Reykjavik",
       "isFeatured": 0
     },
