@@ -137,6 +137,10 @@
   background-image: url('../images/stories/Iceland/part-1/featured.jpg');
 }
 
+.featured-story#iceland2 {
+  background-image: url('../images/stories/Iceland/part-2/featured.jpg');
+}
+
 .featured-story#reykjavik {
   background-image: url('../images/stories/Reykjavik/featured.jpg');
 }

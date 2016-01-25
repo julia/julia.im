@@ -4,7 +4,7 @@
     "iceland3": {
       "i": 9,
       "title": "Iceland, Part 3",
-      "description": "Following the Ring Road",
+      "description": "Glaciers of the Nothern land",
       "img": "Iceland/part-3",
       "isFeatured": 1
     },
@@ -21,10 +21,10 @@
 
     "iceland": {
       "i": 9,
-      "title": "Iceland",
-      "description": "Waterfalls and glaciers",
-      "img": "Iceland",
-      "isFeatured": 1
+      "title": "Iceland, Part 1",
+      "description": "Following the Ring Road",
+      "img": "Iceland/part-1",
+      "isFeatured": 0
     },
 
 
