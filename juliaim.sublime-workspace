@@ -1,0 +1,664 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"so",
+				"sonoma2015"
+			],
+			[
+				"sonom",
+				"sonoma-2015"
+			],
+			[
+				"sto",
+				"stories"
+			],
+			[
+				"i",
+				"img"
+			],
+			[
+				"st",
+				"stories"
+			],
+			[
+				"Sa",
+				"San-Francisco"
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"is",
+				"isFeatured"
+			],
+			[
+				"de",
+				"description"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"spac",
+				"letter-spacing"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"tra",
+				"translateY"
+			],
+			[
+				"eas",
+				"ease-out"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"scrol",
+				"scrollTop"
+			],
+			[
+				"animate",
+				"animateHeader"
+			],
+			[
+				"slid",
+				"slideUp"
+			],
+			[
+				"ani",
+				"animation-name"
+			],
+			[
+				"slide",
+				"slideUp"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"o",
+				"o-transition"
+			],
+			[
+				"borde",
+				"border-color"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"sro",
+				"scroll"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"subsc",
+				"Subscribed"
+			],
+			[
+				"subm",
+				"submitForm"
+			],
+			[
+				"fill",
+				"fillMap"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"fff",
+				"fffef4"
+			],
+			[
+				"fil",
+				"fillKey"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"j",
+				"jPage"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"stor",
+				"story-overlay"
+			],
+			[
+				"an",
+				"animate"
+			],
+			[
+				"anim",
+				"animate"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"anima",
+				"animateMenu"
+			],
+			[
+				"fn",
+				"function"
+			],
+			[
+				"men",
+				"menu"
+			],
+			[
+				"re",
+				"removeClass"
+			],
+			[
+				"menu",
+				"menu-dd"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"initi",
+				"initStories"
+			],
+			[
+				"hed",
+				"header	Tag"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"cha",
+				"chaparral-pro"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"p",
+				"help"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"t",
+				"transparent"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/julia/code/julia.im",
+		"/Users/julia/code/julia.im/css",
+		"/Users/julia/code/julia.im/jade",
+		"/Users/julia/code/julia.im/jade/stories",
+		"/Users/julia/code/julia.im/stories"
+	],
+	"file_history":
+	[
+		"/Users/julia/code/julia.im/jade/head.jade",
+		"/Users/julia/code/julia.im/css/julia.css",
+		"/Users/julia/code/julia.im/locals.json",
+		"/Users/julia/code/julia.im/jade/stories/index.jade",
+		"/Users/julia/code/julia.im/jade/stories/marin.jade",
+		"/Users/julia/code/julia.im/jade/stories/sonoma-2015.jade",
+		"/Users/julia/code/julia.im/jade/stories/bangkok.jade",
+		"/Users/julia/code/julia.im/jade/stories/islands-thailand.jade",
+		"/Users/julia/code/julia.im/jade/stories/yosemite.jade",
+		"/Users/julia/code/julia.im/jade/stories/monterey.jade",
+		"/Users/julia/code/julia.im/jade/subscribe.jade",
+		"/Users/julia/code/julia.im/package.json",
+		"/Users/julia/code/julia.im/gulpfile.js",
+		"/Users/julia/code/julia.im/stories/monterey.html",
+		"/Users/julia/code/julia.im/jade/stories/stories.json",
+		"/Users/julia/code/julia.im/juliaim.sublime-project",
+		"/Users/julia/code/julia.im/jade/header-story.jade",
+		"/Users/julia/code/julia.im/jade/share.jade",
+		"/Users/julia/code/julia.im/jade/header.jade",
+		"/Users/julia/code/julia.im/jade/projects/index.jade",
+		"/Users/julia/code/julia.im/jade/blog/index.jade"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"src='images",
+			"img + '",
+			"about Bangkok by",
+			"stories/Bangkok/",
+			"lazy(src",
+			"azy(src=",
+			"img(src=",
+			"about Thailand",
+			"img.lazy(",
+			"/Thailand/",
+			"monterey",
+			"about Yosemite",
+			".lazy(",
+			".lazy",
+			"/Yosemite/",
+			"(src",
+			"img(",
+			"about Monterey by",
+			"24",
+			"/images/stories/Monterey",
+			"(data-src",
+			"img(src",
+			"also",
+			"img",
+			"share",
+			"hover",
+			"story.",
+			"section-title h1",
+			"story",
+			".stories",
+			"stories",
+			"Sonoma/",
+			"Monterey",
+			"color",
+			"btn a",
+			": #",
+			"table",
+			"devices",
+			"nav",
+			"nav ",
+			"80px",
+			"padding-top",
+			"but design can",
+			"cover",
+			"note",
+			"julia.",
+			"Grouped",
+			"content",
+			"color",
+			"h3",
+			".note",
+			"button",
+			"a {",
+			"design",
+			"footnote",
+			"stor",
+			"blog",
+			"article",
+			"read",
+			"more",
+			"link",
+			"text-blu",
+			"blog",
+			".section-title",
+			"section-title",
+			"hiking",
+			"56",
+			"51",
+			"svg",
+			"h1",
+			"font-size",
+			"font",
+			"li ",
+			"font-size",
+			"px",
+			"transition:",
+			"transition",
+			"close",
+			"down",
+			"menu-dd",
+			"header",
+			"transform",
+			"background-",
+			"fi-x",
+			"closed",
+			"tooltip",
+			"animateHeader",
+			"animateMenu",
+			"slideUp",
+			"close",
+			".hidden",
+			"hidden",
+			" \n",
+			"h1",
+			"og:type",
+			"via",
+			"animateHeader",
+			"scroll",
+			"subsc",
+			"subscribe",
+			">\n",
+			"isema",
+			"invalid",
+			"transition",
+			"checkContact",
+			"submitForm",
+			"this.",
+			"mc-embedded-subscribe",
+			"share",
+			".btn",
+			"menu",
+			"before",
+			"anchor",
+			"share li",
+			"green",
+			"************** */",
+			"fi-social-linkedin",
+			"body",
+			"network",
+			"nav",
+			"20%",
+			"hiking",
+			"tisa",
+			"copy",
+			"header",
+			"section-",
+			"text-blurb",
+			"h3"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"src='/images",
+			"img + '/",
+			"about ' + stories.bangkok.title + ' by",
+			"stories/' + stories.bangkok.img + '",
+			"lazy(src='images/i.png' data-src",
+			"img.lazy(src=",
+			"about ' + stories.thailand.title + '",
+			"img.lazy(src='images/i.png' ",
+			"/' + stories.thailand.img + '/",
+			"yosemite",
+			"about ' + stories.monterey.title + '",
+			".lazy(src='/images/i.png' ",
+			"/' + stories.monterey.img + '/",
+			"' + stories.monterey.img + '",
+			"(data-src",
+			"img.lazy(",
+			"about ' + stories.monterey.img + ' by",
+			"/images/stories/' + stories.monterey.img + '",
+			"(src='/images/i.png' data-src",
+			"img.lazy(data-src",
+			"Sonoma-2015/",
+			"Sonoma",
+			"ff-tisa-web-pro",
+			"ff-tisa-sans-web-pro",
+			"1c977dff-tisa-sans-web-pro",
+			"1c977d",
+			"02c3d4",
+			"header",
+			"social-links",
+			"tweet-handle",
+			"section-title"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "juliaim.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 404.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
