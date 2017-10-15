@@ -260,6 +260,17 @@ a:hover, .social-links li a:hover {
   padding: 0;
 }
 
+@media only screen and (max-device-width: 720px) {
+  #main {
+    max-width: 365px;
+  }
+
+  .col {
+    width: 100%;
+      margin: 24px 0 0;
+  }
+}
+
 @media (max-width: 720px) {
   #main {
     max-width: 580px;
